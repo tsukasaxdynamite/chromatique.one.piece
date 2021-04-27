@@ -7,7 +7,7 @@
   "chapters": {
     "Chapitre 1": {
       "title": "Romance Dawn : A l'aube d'une grande aventure",
-      "volume": "Tome 1",
+      "volume": "1",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/1zCaZaJ/"
       },
@@ -15,7 +15,7 @@
     },
     "Chapitre 2": {
       "title": "Luffy, l'homme au chapeau de paille",
-      "volume": "Tome 1",
+      "volume": "1",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/GegLpW1/"
       },
@@ -23,7 +23,7 @@
     },
     "Chapitre 3": {
       "title": "Zoro le chasseur de pirates",
-      "volume": "Tome 1",
+      "volume": "1",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/yU1Dr9B/"
       },
@@ -31,7 +31,7 @@
     },
     "Chapitre 941": {
       "title": "La coqueluche du village d'Ebisu",
-      "volume": "Tome 93",
+      "volume": "93",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/vnXIR1Y/"
       },
@@ -39,7 +39,7 @@
     },
     "Chapitre 942": {
       "title": "Yasuie Shimotsuki, seigneur de la région de Hakumai",
-      "volume": "Tome 93",
+      "volume": "93",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/vL0eelu/"
       },
