@@ -7,9 +7,17 @@
   "chapters": {
     "1": {
       "title": "Romance Dawn : A l'aube d'une grande aventure",
-      "volume": "1",
+      "volume": "Tome 1",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/1zCaZaJ/"
+      },
+      "last_updated": "1619547098"
+    },
+    "2": {
+      "title": "Luffy, l'homme au chapeau de paille",
+      "volume": "Tome 1",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/GegLpW1/"
       },
       "last_updated": "1619547098"
     }
