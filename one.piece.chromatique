@@ -1,15 +1,15 @@
 {
-  "title": "<One Piece>",
-  "description": "<Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates.>",
-  "artist": "<Eiichiro Oda>",
-  "author": "<Eiichiro Oda>",
-  "cover": "<https://imgur.com/7AY7kpF>",
+  "title": "One Piece",
+  "description": "Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates.",
+  "artist": "Eiichiro Oda",
+  "author": "Eiichiro Oda",
+  "cover": "https://imgur.com/7AY7kpF",
   "chapters": {
-    "<1>": {
-      "title": "<Romance Dawn : A l'aube d'une grande aventure>",
-      "volume": "<1>",
+    "1": {
+      "title": "Romance Dawn : A l'aube d'une grande aventure",
+      "volume": "1",
       "groups": {
-        "<Chromatique>": "/proxy/api/imgur/chapter/<https://imgur.com/a/1zCaZaJ>/"
+        "Chromatique": "/proxy/api/imgur/chapter/1zCaZaJ/"
       },
       "last_updated": "1619547098"
     }
