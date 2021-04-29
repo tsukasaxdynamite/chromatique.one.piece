@@ -37,6 +37,22 @@
       },
       "last_updated": "1619733663"
     },
+    "5": {
+      "title": "Tome 5 : Pour qui sonne le glas",
+      "volume": "5",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/Avbdufw/"
+      },
+      "last_updated": "1619733663"
+    },
+    "6": {
+      "title": "Tome 6 : Le serment",
+      "volume": "6",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/sAR6rDw/"
+      },
+      "last_updated": "1619733663"
+    },
     "941": {
       "title": "La coqueluche du village d'Ebisu",
       "volume": "93",
