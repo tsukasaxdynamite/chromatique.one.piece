@@ -6,68 +6,20 @@
   "cover": "https://cdn.discordapp.com/attachments/827576781191381035/836673657693798400/1-01.jpg",
   "chapters": {
     "1": {
-      "title": "Romance Dawn : A l'aube d'une grande aventure",
+      "title": "Tome 1 : Romance Dawn : A l'aube d'une grande aventure",
       "volume": "1",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/1zCaZaJ/"
+        "Chromatique": "/proxy/api/imgur/chapter/hUsVirb/"
       },
-      "last_updated": "1619547098"
+      "last_updated": "1619733663"
     },
     "2": {
-      "title": "Luffy, l'homme au chapeau de paille",
-      "volume": "1",
+      "title": "Luffy versus la bande à Baggy !!",
+      "volume": "2",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/GegLpW1/"
+        "Chromatique": "/proxy/api/imgur/chapter/mEonZEk/"
       },
-      "last_updated": "1619547098"
-    },
-    "3": {
-      "title": "Zoro le chasseur de pirates",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/yU1Dr9B/"
-      },
-      "last_updated": "1619547098"
-    },
-    "4": {
-      "title": "Morgan, le colonel à la main de fer",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/19PRBsi/"
-      },
-      "last_updated": "1619646036"
-    },
-    "5": {
-      "title": "Le roi des pirates et la fine lame",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/Bu2rVf8/"
-      },
-      "last_updated": "1619646036"
-    },
-    "6": {
-      "title": "Un premier matelot",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/StlF5jn/"
-      },
-      "last_updated": "1619646036"
-    },
-    "7": {
-      "title": "Des amis",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/ZjnM5De/"
-      },
-      "last_updated": "1619646036"
-    },
-    "8": {
-      "title": "Nami",
-      "volume": "1",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/m8uDtRJ/"
-      },
-      "last_updated": "1619646036"
+      "last_updated": "1619733663"
     },
     "941": {
       "title": "La coqueluche du village d'Ebisu",
