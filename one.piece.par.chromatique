@@ -14,10 +14,18 @@
       "last_updated": "1619733663"
     },
     "2": {
-      "title": "Luffy versus la bande à Baggy !!",
+      "title": "Tome 2 : Luffy versus la bande à Baggy !!",
       "volume": "2",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/mEonZEk/"
+      },
+      "last_updated": "1619733663"
+    },
+    "3": {
+      "title": "Tome 3 : Une vérité qui blesse",
+      "volume": "3",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/74uDBms/"
       },
       "last_updated": "1619733663"
     },
