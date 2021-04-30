@@ -77,6 +77,30 @@
       },
       "last_updated": "1619733663"
     },
+    "10": {
+      "title": "Tome 10 : Ok, let's stand up !",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/DUAxf2c/"
+      },
+      "last_updated": "1619733663"
+    },
+    "11": {
+      "title": "Tome 11 : Le plus grand bandit d'East Blue",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/vE131Kt/"
+      },
+      "last_updated": "1619733663"
+    },
+    "12": {
+      "title": "Tome 12 : Et ainsi débuta la légende",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/VFbbpmW/"
+      },
+      "last_updated": "1619733663"
+    },
     "93": {
       "title": "Tome 93 : La coqueluche du village d'Ebisu",
       "volume": "93",
