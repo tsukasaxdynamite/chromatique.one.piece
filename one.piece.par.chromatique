@@ -101,6 +101,30 @@
       },
       "last_updated": "1619733663"
     },
+    "13": {
+      "title": "Tome 13 : Tiens bon !!",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gwJqWLF/"
+      },
+      "last_updated": "1619733663"
+    },
+    "14": {
+      "title": "Tome 14 : Instinct",
+      "volume": "14",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/ZwpftwX/"
+      },
+      "last_updated": "1619733663"
+    },
+    "15": {
+      "title": "Tome 15 : Droit devant !!",
+      "volume": "15",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/iW4ktkO/"
+      },
+      "last_updated": "1619733663"
+    },
     "93": {
       "title": "Tome 93 : La coqueluche du village d'Ebisu",
       "volume": "93",
