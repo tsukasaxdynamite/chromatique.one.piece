@@ -1,6 +1,6 @@
 {
   "title": "One Piece",
-  "description": "Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates.",
+  "description": "Luffy, un jeune garçon, rêve de devenir le Roi des Pirates en trouvant le One Piece, le trésor ultime rassemblé par Gol D. Roger, le seul pirate à avoir jamais porté le titre de Roi des Pirates. \n\nChromatique produit et distribue les mangas en couleurs. Notre discord : https://discord.gg/3HH8Usj",
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
   "cover": "https://cdn.discordapp.com/attachments/827576781191381035/836673657693798400/1-01.jpg",
@@ -58,6 +58,14 @@
       "volume": "7",
       "groups": {
         "Chromatique": "/proxy/api/imgur/chapter/aiX6MTc/"
+      },
+      "last_updated": "1619733663"
+    },
+    "8": {
+      "title": "Tome 8 : Je ne mourrai pas !",
+      "volume": "8",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/U5paajn/"
       },
       "last_updated": "1619733663"
     },
