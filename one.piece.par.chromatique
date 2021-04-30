@@ -77,21 +77,13 @@
       },
       "last_updated": "1619733663"
     },
-    "941": {
-      "title": "La coqueluche du village d'Ebisu",
+    "93": {
+      "title": "Tome 93 : La coqueluche du village d'Ebisu",
       "volume": "93",
       "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/vnXIR1Y/"
+        "Chromatique": "/proxy/api/imgur/chapter/nvTggN6/"
       },
-      "last_updated": "1619613204"
-    },
-    "942": {
-      "title": "Yasuie Shimotsuki, seigneur de la région de Hakumai",
-      "volume": "93",
-      "groups": {
-        "Chromatique": "/proxy/api/imgur/chapter/vL0eelu/"
-      },
-      "last_updated": "1619613204"
+      "last_updated": "1619770010"
     }
   }
 }
