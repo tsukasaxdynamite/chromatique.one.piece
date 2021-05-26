@@ -237,6 +237,173 @@
       },
       "last_updated": "1621769574"
     },
+  	"30": {
+	   "title": "Tome 30 : Capriccio",
+	    "volume": "30",
+	    "groups": {
+		  "Chromatique": "/proxy/api/imgur/chapter/bK6iY2U/"
+	    },
+	    "last_updated": "1621790777"
+  	},
+	  "31": {
+	    "title": "Tome 31 : Nous sommes là",
+  	  "volume": "31",
+	    "groups": {
+		  "Chromatique": "/proxy/api/imgur/chapter/4f5lPTW/"
+	    },
+	    "last_updated": "1621790777"
+	},
+	"32": {
+	  "title": "Tome 32 : Love Song",
+	  "volume": "32",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/LbdGFhd/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"33": {
+	  "title": "Tome 33 : Davy Back Fight !!",
+	  "volume": "33",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/tLOktUk/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"34": {
+	  "title": "Tome 34 : Water Seven, la cité sur l'eau",
+	  "volume": "34",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/hgG04Mz/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"35": {
+	  "title": "Tome 35 : Capitaine",
+	  "volume": "35",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/XQ6idPa/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"36": {
+	  "title": "Tome 36 : Justice n°9",
+	  "volume": "36",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/owhQmAM/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"37": {
+	  "title": "Tome 37 : Tom",
+	  "volume": "37",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/9bIKLwJ/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"38": {
+	  "title": "Tome 38 : Rocketman !",
+	  "volume": "38",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/HjyWVzW/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"39": {
+	  "title": "Tome 39 : Opération sauvetage",
+	  "volume": "39",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/EW3LMVZ/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"40": {
+	  "title": "Tome 40 : Gear",
+	  "volume": "40",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/NRLdzrC/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"41": {
+	  "title": "Tome 41 : Déclaration de guerre",
+	  "volume": "41",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/lHfOD38/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"42": {
+	  "title": "Tome 42 : Les pirates contre le CP9",
+	  "volume": "42",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/VPzPb2n/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"43": {
+	  "title": "Tome 43 : La légende du héros",
+	  "volume": "43",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/Z8CsDBj/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"44": {
+	  "title": "Tome 44 : « Rentrons »",
+	  "volume": "44",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/zzdVX0x/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"45": {
+	  "title": "Tome 45 : Je comprends ce que vous ressentez",
+	  "volume": "45",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/OTr9ljz/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"46": {
+	  "title": "Tome 46 : Aventure sur l'île fantôme",
+	  "volume": "46",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/H8EDcmX/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"47": {
+	  "title": "Tome 47 : Temps couvert avec chutes d'os par moments",
+	  "volume": "47",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/mobVcNx/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"48": {
+	  "title": "Tome 48 : L'aventure d'Oz",
+	  "volume": "48",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/ZSPa8nA/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"49": {
+	  "title": "Tome 49 : Nightmare Luffy",
+	  "volume": "49",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/84mIBEE/"
+	  },
+	  "last_updated": "1621790777"
+	},
+	"50": {
+	  "title": "Tome 50 : De nouveau face au mur",
+	  "volume": "50",
+	  "groups": {
+		"Chromatique": "/proxy/api/imgur/chapter/Ge07iXx/"
+	  },
+	  "last_updated": "1621790777"
     "93": {
       "title": "Tome 93 : La coqueluche du village d'Ebisu",
       "volume": "93",
